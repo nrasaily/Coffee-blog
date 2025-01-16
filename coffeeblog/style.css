@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color: black;
+    background-color: blanchedalmond;
+
+}
+
+.container{
+    display: flex;
+    border: 2px, crimson;
+    justify-content: space-between;
+    }
+
+h1{
+    font-weight: bold;
+    color:black;
+}
+nav{
+    font-size: large;
+    
+}
+header{
+    background-position:center; 
+    background-size: cover;
+    height: 400px;
+    height: 300;
+    color: black;
+    text-align:center;
+}
+
+.btn{
+background-color: black;
+color: blanchedalmond;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+}
+.highlight{
+    font: 1em sans-serif;
+    background-color: color-mix(in lch shorter hue, color percentage, color percentage);
+}
+header{
+    background-color: brown;
+}
+
+div{
+    background-color: lightgreen;
+}
+.scroll-btn{
+    transform: red;
+}
